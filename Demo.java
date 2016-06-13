@@ -38,7 +38,7 @@ static final String PASSWORD = "chetna@1592kRV44Y3GoLX83cgxLl8U1cKZ";
       System.out.println("SessionId: "+config.getSessionId());
       
       // run the different examples
-      queryContacts();
+      //queryContacts();
       createAccounts();
       //updateAccounts();
       //deleteAccounts();
